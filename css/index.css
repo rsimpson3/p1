@@ -1,0 +1,63 @@
+body {
+	font-family: Arial, Geneva, sans-serif;
+	background-color: #B1D3EE;
+	font-size: 100%;
+}
+
+img {
+	border: 2px solid;
+	border-color: #blue
+}
+
+/* select Project titles */
+.projects > li {
+	font-weight: bold;
+	font-size: 1.5em;
+	list-style: none;
+}
+
+
+/* selects Web links*/
+.projects ul > li {
+	list-style-image: url(../images/noun_89628_link_icon-22px.png);
+	margin-left: 18px;
+}
+
+/* selects Github links*/
+.projects ul > li + li {
+	list-style-image: url(../images/GitHub-Mark-22px.png);
+	margin-left: 18px;
+	margin-bottom: 10px;
+}
+
+.portrait {
+	text-align: center;
+}
+
+.wrapper {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+	background-color: #B1D3EE;
+}
+
+.mybackgrd h1, h2, h3, h4, h5 {
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 0;
+}
+
+.mybackgrd h1 + p, h2 + p, h3 + p, h4 + p, h5 + p {
+	margin-top: 0;
+}
+
+#footer {
+	font-size: 70%;
+	padding-top: 1em;
+	margin-top: 2em;
+	border-top: 1px solid;
+	border-color: #blue;
+	text-align: left;
+
+}
