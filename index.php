@@ -1,8 +1,7 @@
-<?php echo '<?xml version="1.0" encoding="UTF-8" ?>';?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-                      "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html version="XHTML+RDFa 1.0" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html>
 <head>
+    <meta charset="utf-8">
 	<title>Robert Simpson Dynamic Web Applications Portfolio</title>
 	<link href="css/index.css" rel="stylesheet">
 </head>
@@ -61,7 +60,7 @@
 
 		</section>
 		<footer id="footer">
-			<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Web Applications Portfolio</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.linkedin.com/in/rsimpson3" property="cc:attributionName" rel="cc:attributionURL">Robert Simpson</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://p1.digitalbiolab.me/" rel="dct:source">http://p1.digitalbiolab.me/</a>. | Harvard Medical School | Office for Diversity Inclusion and Community Partnership
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a<br/> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | Harvard Medical School | Office for Diversity Inclusion and Community Partnership
 		</footer>
 	</div>
 
