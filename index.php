@@ -15,26 +15,30 @@
 			<h2> Dynamic Web Applications Portfolio</h2>
 		</div>
 		<ol class="projects">
-			<li>Project 1</li>
+			<li>Project 1
 				<ul>
 					<li>View [<a href="http://p1.digitalbiolab.me/">Link</a>] </li>
 					<li>Github [<a href="https://github.com/rsimpson3/p1">Link</a>] </li>
 				</ul>
-			<li>Project 2</li>
+            </li>
+			<li>Project 2
 				<ul>
 					<li>View [<a href="http://p2.digitalbiolab.me/">Link</a>] </li>
 					<li>Github [<a href="https://github.com/rsimpson3/p2">Link</a>] </li>
 				</ul>
-			<li>Project 3</li>
+            </li>
+			<li>Project 3
 				<ul>
 					<li>View [<a href="http://p3.digitalbiolab.me/">Link</a>] </li>
 					<li>Github [<a href="https://github.com/rsimpson3/p3">Link</a>] </li>
 				</ul>
-			<li>Project 4</li>
+            </li>
+			<li>Project 4
 				<ul>
 					<li>View [<a href="http://p4.digitalbiolab.me/">Link</a>] </li>
 					<li>Github [<a href="https://github.com/rsimpson3/p4">Link</a>] </li>
 				</ul>
+            </li>
 		</ol>
 		<section class="mybackgrd">
 			<h1> Who Am I? </h1>
@@ -60,7 +64,7 @@
 
 		</section>
 		<footer id="footer">
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a<br/> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | Harvard Medical School | Office for Diversity Inclusion and Community Partnership
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> <This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | Harvard Medical School | Office for Diversity Inclusion and Community Partnership
 		</footer>
 	</div>
 

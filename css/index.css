@@ -10,7 +10,7 @@ img {
 }
 
 /* select Project titles */
-.projects > li {
+.projects > * {
 	font-weight: bold;
 	font-size: 1.5em;
 	list-style: none;
@@ -21,6 +21,10 @@ img {
 .projects ul > li {
 	list-style-image: url(../images/noun_89628_link_icon-22px.png);
 	margin-left: 18px;
+	/*not possible to select direct child of ol > li to style nested uls,
+	used more specific style rule to override project titles rule*/
+	font-size: 0.8em;
+	font-weight: normal;
 }
 
 /* selects Github links*/
