@@ -7,8 +7,7 @@ Live URL: <http://p1.digitalbiolab.me>
 Portfolio website for Dynamic Web Applications.
 
 ## Updates
-Add simpler Creative Commons license code without using xml doctypes.
-Edited nested ol li ul li tags and CSS style sheet to format text. 
+Edited css style sheet to fix invalid img color border.
 
 ## Demo
 https://vimeo.com/155072044

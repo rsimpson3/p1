@@ -6,16 +6,15 @@ body {
 
 img {
 	border: 2px solid;
-	border-color: #blue
+	border-color: #333399;
 }
 
 /* select Project titles */
-.projects > * {
+ol.projects > li {
 	font-weight: bold;
 	font-size: 1.5em;
 	list-style: none;
 }
-
 
 /* selects Web links*/
 .projects ul > li {
@@ -61,7 +60,6 @@ img {
 	padding-top: 1em;
 	margin-top: 2em;
 	border-top: 1px solid;
-	border-color: #blue;
 	text-align: left;
 
 }

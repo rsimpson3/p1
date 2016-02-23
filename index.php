@@ -14,7 +14,7 @@
 			<img src="images/simpson_headshot_300px.jpg" alt="simpson headshot">
 			<h2> Dynamic Web Applications Portfolio</h2>
 		</div>
-		<ol class="projects">
+        <ol class="projects">
 			<li>Project 1
 				<ul>
 					<li>View [<a href="http://p1.digitalbiolab.me/">Link</a>] </li>
